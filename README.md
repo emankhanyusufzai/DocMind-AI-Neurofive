@@ -30,6 +30,10 @@ Instead of relying on the LLM's memory (which can hallucinate), DocMind AI retri
 
 ---
 
+## 🌐 Live Demo
+
+Try it here: [DocMind AI — Live App](https://docmind-ai-neurofive-2gklnukaajqecscprky5fx.streamlit.app/)
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
@@ -67,3 +71,7 @@ This project was tested by asking the model 5+ questions that required reading t
 ## 📎 Project Context
 
 Built as part of the **Neurofive Solutions Internship — Week 3, Generative AI & Prompt Engineering** module (RAG Mini-Project: "Chat With Your Own Document").
+
+## 🎥 Demo Video
+
+Watch the demo on LinkedIn: [LinkedIn post link — add after posting]
