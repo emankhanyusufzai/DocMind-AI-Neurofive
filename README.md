@@ -10,7 +10,7 @@ Instead of relying on the LLM's memory (which can hallucinate), DocMind AI retri
 
 - 📄 Upload any PDF and chat with its content
 - 🔍 Semantic search over document chunks using FAISS vector store
-- 🤖 Grounded answers powered by Groq (LLaMA 3.1 8B Instant)
+- 🤖 Grounded answers powered by Google Gemini (`gemini-2.5-flash`)
 - 🧩 Local embeddings via HuggingFace `sentence-transformers/all-MiniLM-L6-v2`
 - 📌 Source page numbers shown for every answer, for easy verification
 - 🎨 Clean, dark-themed Streamlit chat interface
@@ -25,7 +25,7 @@ Instead of relying on the LLM's memory (which can hallucinate), DocMind AI retri
 | Orchestration | LangChain |
 | Vector Store | FAISS (local) |
 | Embeddings | HuggingFace (`all-MiniLM-L6-v2`) |
-| LLM | Groq (`llama-3.1-8b-instant`) |
+| LLM | Google Gemini (`gemini-2.5-flash`) |
 | PDF Parsing | pypdf |
 
 ---
@@ -46,7 +46,7 @@ Instead of relying on the LLM's memory (which can hallucinate), DocMind AI retri
 3. **Add your API key**
    Create a `.env` file in the project root:
    ```
-   GROQ_API_KEY=your_groq_api_key_here
+   GEMINI_API_KEY=your_gemini_api_key_here
    ```
 
 4. **Run the app**
