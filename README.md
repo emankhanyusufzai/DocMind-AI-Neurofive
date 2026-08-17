@@ -74,4 +74,4 @@ Built as part of the **Neurofive Solutions Internship — Week 3, Generative AI 
 
 ## 🎥 Demo Video
 
-Watch the demo on LinkedIn: [LinkedIn post link — add after posting]
+Watch the demo on LinkedIn: [DocMind AI — Demo Video](https://www.linkedin.com/posts/eman-khan-903603339_generativeai-rag-langchain-ugcPost-7495185102428143616-3Ubt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFT8MVMBerQm95j5Cxvue7ggwSGs-Rvjalg)
