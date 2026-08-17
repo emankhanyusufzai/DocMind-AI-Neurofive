@@ -72,6 +72,10 @@ This project was tested by asking the model 5+ questions that required reading t
 
 Built as part of the **Neurofive Solutions Internship — Week 3, Generative AI & Prompt Engineering** module (RAG Mini-Project: "Chat With Your Own Document").
 
+## 📄 Project Documentation
+
+Full write-up: [Project Documentation](https://docs.google.com/document/d/1HtPXWvscS5GE7-Dfh2FgeRClIGc2Vows/edit?usp=sharing&ouid=113277923944516120692&rtpof=true&sd=true)
+
 ## 🎥 Demo Video
 
 Watch the demo on LinkedIn: [DocMind AI — Demo Video](https://www.linkedin.com/posts/eman-khan-903603339_generativeai-rag-langchain-ugcPost-7495185102428143616-3Ubt/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFT8MVMBerQm95j5Cxvue7ggwSGs-Rvjalg)
